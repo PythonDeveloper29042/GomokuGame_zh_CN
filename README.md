@@ -82,3 +82,7 @@ pyinstaller -F -w main.py
 
 - **作者**：PythonDeveloper29042
 - **联系**：[pythondeveloper.29042@outlook.com](mailto:pythondeveloper.29042@outlook.com)
+
+## 许可
+
+本项目使用MIT许可证。详情请参阅 [LICENSE](./LICENSE) 文件。
